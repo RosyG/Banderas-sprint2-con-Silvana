@@ -1,0 +1,18 @@
+.yellow, .gray{
+  padding: 20px;*/
+  height: 80px;
+  margin: 10px;
+  font-family: sans-serif;
+  width: 200px;
+  display: inline;/**/
+
+}
+
+.yellow{
+  background: #f9cc5f;
+}
+
+.gray{
+  background: #2B2B2B;
+  color: #fff;/*cambio de color en las letras*/
+}
